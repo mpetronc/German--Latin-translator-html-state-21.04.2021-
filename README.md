@@ -1,8 +1,6 @@
 # Translatio Teutonica
 
-A German-to-Latin translator with a Roman-inspired web interface and a matching Python CLI prototype.
-
-This project is designed for short phrases, vocabulary demos, and playful presentation. It is rule-based, fast to understand, and easy to publish on GitHub as a small portfolio app.
+A German-to-Latin translator: This project is designed for short phrases, vocabulary demos, and playful presentation. 
 
 ## What is included
 
@@ -68,12 +66,3 @@ Der Hund und die Katze -> Ille canis et illa felis
 
 - This is not a full grammar-aware Latin translator.
 - Official Asterix and Obelix artwork is not included. The project uses an original Gaul-inspired illustration to keep it safe for publishing.
-
-## Good GitHub extras
-
-Before uploading, consider adding:
-
-- a `LICENSE` file
-- a few screenshots
-- a short demo GIF
-- more vocabulary entries
