@@ -95,12 +95,3 @@ This translator does not fully handle:
 
 - This is not a full grammar-aware Latin translator.
 - Official Asterix and Obelix artwork is not included. The project uses an original Gaul-inspired illustration to keep it safe for publishing.
-
-## Good GitHub extras
-
-Before uploading, consider adding:
-
-- a `LICENSE` file
-- a few screenshots
-- a short demo GIF
-- more vocabulary entries
