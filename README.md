@@ -2,7 +2,7 @@
 
 A very basic German-to-Latin translator with a Roman-inspired web interface and a matching Python CLI prototype.
 
-This project is designed for short phrases, vocabulary demos, and playful presentation. It is rule-based, intentionally lightweight, and works best as a small demo rather than a full translation engine.
+This project is designed for short phrases, vocabulary demos, and playful presentation. It is rule-based, intentionally lightweight, and works best as a small demo rather than a full translation engine. It really isn't meant for deep work, it was moreso a way for me to practice coding, and to impress my latin professor :). 
 
 ## What is included
 
