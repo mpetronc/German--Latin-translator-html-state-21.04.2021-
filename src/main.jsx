@@ -319,10 +319,6 @@ function App() {
         <div className="hero-copy">
           <p className="eyebrow">German / Latin</p>
           <h1>The Coloseo</h1>
-          <p className="lede">
-            A marble-and-banner translator for short phrases, quick vocabulary, and
-            playful classroom Latin with a strong Roman arena mood.
-          </p>
 
           <div className="stat-row">
             <div className="stat-card">
