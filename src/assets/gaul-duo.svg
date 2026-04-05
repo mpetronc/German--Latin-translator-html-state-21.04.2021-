@@ -22,7 +22,6 @@
     <ellipse cx="142" cy="194" rx="56" ry="47" fill="#EDC08E" stroke="#2D1A12" stroke-width="6"/>
     <path d="M89 220C105 206 120 200 134 200C144 200 151 208 151 218C151 228 144 236 134 236H89V220Z" fill="#D84C33" stroke="#2D1A12" stroke-width="6"/>
     <path d="M195 220C179 206 164 200 150 200C140 200 133 208 133 218C133 228 140 236 150 236H195V220Z" fill="#D84C33" stroke="#2D1A12" stroke-width="6"/>
-    <path d="M132 253C136 264 146 272 158 272C166 272 174 269 181 263" stroke="#B16840" stroke-width="6" stroke-linecap="round"/>
   </g>
 
   <g transform="translate(430 136)">
@@ -30,8 +29,6 @@
     <path d="M62 72L32 40L54 28L76 54L62 72Z" fill="#F4F1EB" stroke="#2D1A12" stroke-width="7" stroke-linejoin="round"/>
     <path d="M190 72L220 40L198 28L176 54L190 72Z" fill="#F4F1EB" stroke="#2D1A12" stroke-width="7" stroke-linejoin="round"/>
     <ellipse cx="126" cy="154" rx="72" ry="68" fill="#F4D3A8" stroke="#2D1A12" stroke-width="7"/>
-    <path d="M74 166C58 184 48 206 46 232" stroke="#D8B94A" stroke-width="13" stroke-linecap="round"/>
-    <path d="M178 166C194 184 204 206 206 232" stroke="#D8B94A" stroke-width="13" stroke-linecap="round"/>
     <ellipse cx="108" cy="154" rx="7" ry="12" fill="#2D1A12"/>
     <ellipse cx="146" cy="154" rx="7" ry="12" fill="#2D1A12"/>
     <path d="M95 125C102 115 112 110 122 110" stroke="#2D1A12" stroke-width="6" stroke-linecap="round"/>

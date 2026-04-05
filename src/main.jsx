@@ -1,7 +1,7 @@
 import React, { startTransition, useDeferredValue, useEffect, useState } from "react";
 import { createRoot } from "react-dom/client";
 import "./styles.css";
-import duoIllustration from "./assets/gaul-duo.svg?v=7";
+import duoIllustration from "./assets/gaul-duo.svg?v=9";
 
 const PHRASES = {
   "alle wege führen nach rom": "omnia itinera romam ducunt",
