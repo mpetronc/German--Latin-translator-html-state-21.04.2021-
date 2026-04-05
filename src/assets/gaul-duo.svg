@@ -37,6 +37,5 @@
     <path d="M95 125C102 115 112 110 122 110" stroke="#2D1A12" stroke-width="6" stroke-linecap="round"/>
     <path d="M159 125C152 115 142 110 132 110" stroke="#2D1A12" stroke-width="6" stroke-linecap="round"/>
     <ellipse cx="126" cy="184" rx="47" ry="38" fill="#EDC08E" stroke="#2D1A12" stroke-width="6"/>
-    <path d="M96 217C105 223 115 226 126 226C137 226 147 223 156 217" stroke="#B16840" stroke-width="6" stroke-linecap="round"/>
   </g>
 </svg>
